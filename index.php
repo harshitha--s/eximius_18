@@ -1,0 +1,9 @@
+<?php include 'header.php';?>
+<?php include 'navigation.php';?>
+<?php include 'cover.php';?>
+<?php include 'video.php';?>
+<?php include 'about.php';?>
+<?php include 'speakers.php';?>
+<?php include 'events.php';?>
+<?php include 'contact.php';?>
+<?php include 'footer.php';?>
